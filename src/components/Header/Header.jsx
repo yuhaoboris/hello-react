@@ -1,4 +1,5 @@
-import logo from '../assets/react-core-concepts.png'
+import logo from '../../assets/react-core-concepts.png'
+import './Header.css'
 
 const reactDescriptions = ['Fundamental', 'Crucial', 'Core']
 
