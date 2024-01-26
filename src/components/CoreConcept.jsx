@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 export default function CoreConcept ({ title, description, image }) {
   return <li>
     <img src={image} alt={title} />
